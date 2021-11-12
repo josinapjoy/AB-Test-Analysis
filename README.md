@@ -6,6 +6,7 @@ A/B tests are very commonly performed by data analysts and data scientists.The g
    * [Probability ](#prob)
    * [A/B Test ](#abtest)
    * [Regression (Logistic) ](#reg)
+   * [Conclusion ] (#con)
 
 
 <a name="prob"></a>
